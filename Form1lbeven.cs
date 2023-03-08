@@ -21,5 +21,10 @@ namespace labeven8
         {
             
         }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
